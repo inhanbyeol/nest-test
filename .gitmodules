@@ -1,3 +1,12 @@
-[submodule "src/_core/factories"]
+[submodule "factories"]
 	path = src/_core/factories
-	url = https://github.com/LimeDevelopers/nestjs-core-factories.git
+	url = https://github.com/LimeDevelopers/nestjs-core.git
+	branch = factories
+[submodule "middlewares"]
+	path = src/_core/middlewares
+	url = https://github.com/LimeDevelopers/nestjs-core.git
+	branch = middlewares
+[submodule "guard"]
+	path = src/_core/guard
+	url = https://github.com/LimeDevelopers/nestjs-core.git
+	branch = guard
