@@ -2,3 +2,6 @@
 	path = docker-files
 	url = https://github.com/LimeDevelopers/common-dockerfiles.git
 	branch = nestjs
+[submodule "src/_core/factories"]
+	path = src/_core/factories
+	url = https://github.com/LimeDevelopers/nestjs-core-factories.git
